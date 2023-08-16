@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reveroff/static/css/main.7acaea2f.css",
+    "main.js": "/reveroff/static/js/main.07d3183d.js",
+    "index.html": "/reveroff/index.html",
+    "main.7acaea2f.css.map": "/reveroff/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/reveroff/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
